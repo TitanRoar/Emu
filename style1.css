@@ -1,0 +1,44 @@
+body{
+    background-color: #e3fdfd;
+}
+
+h1{
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color: #88304e;
+}
+
+ol li{
+    text-align: center;
+    
+}
+
+em{
+    font-size: 30px;
+    text-align: center;
+}
+
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+    background-color: #e3fdfd;
+
+}
+
+img:hover{
+    background-color: #f6416c;
+}
+
+h2{
+    text-align: center;
+    color: #112d4e;
+     font-size: 30px;
+    background-color: #e3fdfd;
+}
+
+.dis{
+    font-family: "Courier New", Courier, monospace;
+}
+
